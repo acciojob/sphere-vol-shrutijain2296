@@ -1,7 +1,4 @@
 
-	
-	let button = document.getElementById("submit");
-
 	function volume_sphere() {
     //Write your code here
 	let radius = document.getElementsById("radius");
